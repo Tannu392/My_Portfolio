@@ -5,3 +5,5 @@
 👯 Open to collaborating on exciting projects and innovative ideas  
 💬 Ask me about web development, and full stack projects  
 ⚡ Always learning, building, and leveling up
+📫 You can reach me directly through the contact form on my portfolio website
+🔗 Connect with me: www.linkedin.com/in/tannu-4604a1264
